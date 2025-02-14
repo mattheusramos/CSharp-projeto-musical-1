@@ -24,4 +24,4 @@ O objetivo é representar um sistema musical, utilizando classes e conceitos fun
 1. Clone este repositório:  
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/mattheusramos/CSharp-projeto-musical-1.git
