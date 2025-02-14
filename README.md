@@ -1,3 +1,23 @@
-Projeto realizado em C# com foco em utilização de orientação a objetos, um projeto musical no qual consiste na criação de modelos de música com atributos como nome, artista, duração e disponibilidade. 
-Por meio da manipuação de varáveis, métodos e propriedades, podendo exibir informações sobre a música.
-Também possui o conceito de classes relacionadas, como a classe "Banda", também contendo a utilização de contrutores para garantir a assosiação correta entre entidades.
+🎵 Projeto Musical em C# 🎵
+Este é um projeto desenvolvido em C#, com foco na Programação Orientada a Objetos (POO). O objetivo é representar um sistema musical, utilizando classes e conceitos fundamentais da linguagem.
+
+📌 Funcionalidades
+Modelagem de músicas com atributos como:
+🎶 Nome
+🎤 Artista
+⏱️ Duração
+✅ Disponibilidade
+Manipulação de variáveis, métodos e propriedades para exibir informações sobre as músicas.
+Implementação de classes relacionadas, como a classe Banda, para agrupar músicas.
+Uso de construtores para garantir a correta associação entre entidades.
+🛠️ Tecnologias utilizadas
+Linguagem: C#
+Paradigma: Programação Orientada a Objetos (POO)
+🚀 Como executar o projeto
+Clone este repositório:
+bash
+Copiar
+Editar
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+Abra o projeto em um ambiente de desenvolvimento compatível, como o Visual Studio.
+Compile e execute o projeto para testar as funcionalidades.
